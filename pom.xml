@@ -4,7 +4,6 @@
     <groupId>hw1</groupId>
     <artifactId>hw1</artifactId>
     <version>1.0</version>
-    <encoding>UTF-8</encoding>
     <packaging>war</packaging>
     <name>hw1 Tapestry 5 Application</name>
         <dependencies>
