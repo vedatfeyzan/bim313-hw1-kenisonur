@@ -3,10 +3,6 @@ import org.paukov.combinatorics3.Generator;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by onur on 09.11.2016.
- */
-
 public class App
 {
     public static void main( String[] args )
