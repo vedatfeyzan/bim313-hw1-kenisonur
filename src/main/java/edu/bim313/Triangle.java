@@ -27,6 +27,6 @@ public class Triangle {
 
     public boolean checkInEquality() {
 
-        return distance[b][a] + distance[b][c] >= distance[a][c];
+       return ((distance[b][a] + distance[b][c] <= distance[a][c])||(distance[b][a] + distance[a][c] <= distance[b][c])||(distance[a][c] + distance[b][c] <= distance[b][a]));
     }
 }
